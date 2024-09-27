@@ -40,7 +40,7 @@ Data augmentation techniques are applied using ImageDataGenerator to increase th
 
 2. Optimize the Model: Experiment with different architectures and hyperparameters to enhance performance.
 
-3. Deploy the System: Create a user-friendly interface and deploy the model for practical use in applications or devices.
+3. Deploy the System: Create a user-friendly interface and deploy the model for practical use in applications or devices .
 
 
 ## License
